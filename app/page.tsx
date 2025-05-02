@@ -15,7 +15,7 @@ export default function Home() {
           <div className="mb-8 relative">
             <div className="w-40 h-40 rounded-full overflow-hidden mx-auto border-4 border-white shadow-xl">
               <Image
-                src="/placeholder.svg?height=400&width=400"
+                src="/abc.JPG"
                 alt="MD. Tahidul Islam"
                 width={160}
                 height={160}
